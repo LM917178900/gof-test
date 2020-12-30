@@ -1,7 +1,7 @@
 package com.example.demo.patterns.structure.decorator;
 
 /**
- * code reference address:http://c.biancheng.net/view/1359.html
+ * 动态地给对象增加一些职责，即增加其额外的功能。
  *
  * @description: DecoratorPattern
  * @author: leiming5
