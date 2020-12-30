@@ -7,6 +7,11 @@ package com.example.demo.patterns.create.singleton;
  */
 public class Test {
 
+    /**
+     * 设置总统这个职位只能由一个人担任
+     *
+     * @param args
+     */
     public static void main(String[] args) {
         President zt1 = President.getInstance();
         zt1.getName();    //输出总统的名字

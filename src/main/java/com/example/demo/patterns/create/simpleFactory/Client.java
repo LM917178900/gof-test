@@ -10,6 +10,11 @@ package com.example.demo.patterns.create.simpleFactory;
  */
 public class Client {
 
+    /**
+     * 静态工厂SimpleFactory，生产产品a和产品b
+     *
+     * @param args
+     */
     public static void main(String[] args) {
 
         Product product = SimpleFactory.makeProduct(Const.PRODUCT_A);

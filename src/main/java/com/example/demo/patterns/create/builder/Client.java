@@ -1,6 +1,8 @@
 package com.example.demo.patterns.create.builder;
 
 /**
+ * 用于建造有多个部件组成的对象
+ *
  * @description: Client
  * @author: leiming5
  * @date: 2020-12-30 16:45
